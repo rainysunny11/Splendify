@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/splendify/static/css/main.a4b71274.css",
+    "main.js": "/splendify/static/js/main.52269846.js",
+    "static/js/453.419a5d54.chunk.js": "/splendify/static/js/453.419a5d54.chunk.js",
+    "index.html": "/splendify/index.html",
+    "main.a4b71274.css.map": "/splendify/static/css/main.a4b71274.css.map",
+    "main.52269846.js.map": "/splendify/static/js/main.52269846.js.map",
+    "453.419a5d54.chunk.js.map": "/splendify/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4b71274.css",
+    "static/js/main.52269846.js"
+  ]
+}
